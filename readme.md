@@ -36,7 +36,8 @@ To get started with My Own Language, follow these steps:
 
 ## Documentation
 
-Comprehensive documentation is available [here]
+Comprehensive documentation is available below:
+
 https://www.freecodecamp.org/news/the...
 https://hackernoon.com/building-your-...
 
