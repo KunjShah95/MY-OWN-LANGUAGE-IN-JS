@@ -38,11 +38,10 @@ To get started with My Own Language, follow these steps:
 
 Comprehensive documentation is available below:
 
-https://www.freecodecamp.org/news/the...
+](https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/)
 
 
-https://hackernoon.com/building-your-...
-
+](https://hackernoon.com/building-your-own-programming-language-from-scratch)
 ## Contributing
 
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
