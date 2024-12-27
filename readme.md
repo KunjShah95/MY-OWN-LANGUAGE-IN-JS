@@ -50,11 +50,6 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Badges
-
-![Build Status](https://img.shields.io/github/workflow/status/KunjShah95/my-own-language/CI)
-![License](https://img.shields.io/github/license/KunjShah95/my-own-language)
-![Contributors](https://img.shields.io/github/contributors/KunjShah95/my-own-language)
 
 ## Future Enhancements
 
